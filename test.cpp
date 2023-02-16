@@ -6,4 +6,6 @@ int main() {
     cout << "First Test" << endl;
     cout << "Second Test" << endl;
     cout << "Third Test" << endl;
+    cout << "Fourth Test" << endl;
+    cout << "Again" << endl;
 }
